@@ -1,16 +1,20 @@
-## OIII 👋
+# 🚀 Nome do Projeto
 
-<!--
-**matheusmuraro/matheusmuraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Uma descrição clara e concisa sobre o que o projeto faz e por que ele é útil. Adicione uma frase de efeito aqui.
 
-Here are some ideas to get you started:
+![GitHub repo size](https://img.shields.io)
+![GitHub language count](https://img.shields.io)
+![GitHub stars](https://img.shields.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📝 Descrição
+Breve resumo detalhado do projeto. Explique o problema que ele resolve e qual tecnologia principal foi utilizada.
+
+## 📸 Demonstração
+*(Opcional, mas recomendado)*
+Adicione um GIF ou imagem do projeto funcionando.
+```html
+<p align="center">
+  <img src="caminho/para/demo.gif" alt="Demo do Projeto" width="100%">
+</p>
